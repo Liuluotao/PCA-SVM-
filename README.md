@@ -9,7 +9,7 @@ PyCharm 2021.1.3 x64
 * scipy
 * scikit-learn
 * PIL
-##　代码内容有
+## 代码内容
 １.PCA保留的主成分数n_components对准确率的影响
 ２.准确率随不同gamma和核函数变化曲线
 ３. k重交叉验证的k值对准确率的影响
